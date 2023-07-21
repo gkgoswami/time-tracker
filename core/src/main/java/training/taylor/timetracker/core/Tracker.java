@@ -1,6 +1,7 @@
 package training.taylor.timetracker.core;
 
 import org.springframework.beans.factory.annotation.Autowired;
+ // dumy checkin
 import org.springframework.stereotype.Component;
 import training.taylor.timetracker.core.dao.TimeEntry;
 
